@@ -1,3 +1,4 @@
+[Link Text]([URL](https://github.com/TessaAyv79/CSCN8010-labs-1/blob/main/Lab7/MNIST_Classification_Performance_Evaluation.html)
 # CSCN8010-labs
 !Here are my solutions to CSCN8010 practical labs
 Performance Evaluation of MNIST Classification Models
