@@ -1,5 +1,5 @@
 # CSCN8010-labs
-Here are my solutions to CSCN8010 practical labs
+!Here are my solutions to CSCN8010 practical labs
 Performance Evaluation of MNIST Classification Models
 Description:
 This notebook evaluates the performance of various classification models on the MNIST dataset, which contains handwritten digits. The lab includes exploratory data analysis (EDA), model selection, and evaluation on validation and test datasets.
