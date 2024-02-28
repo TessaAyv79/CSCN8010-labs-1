@@ -1,7 +1,13 @@
 # CSCN8010-labs
+
+[link text] (https://github.com/TessaAyv79/CSCN8010-labs/blob/5a88b7ecad6bc57b33232698d6d884c1d856d2b2/docs/MNIST_Classification_Performance_Evaluation.ipynb)
+
 Here my solutions to CSCN8010 practical labs
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a3b3c0266e6f09994fb4ab878b49f59422214fa7
 # Project Title: Performance Metrics for Classification
 ## Author: Tessa Ayvazoglu
 ## Date: February 24, 2024
@@ -28,4 +34,8 @@ The purpose of this lab is to evaluate a model for MNIST classification using pe
 
 8. <span style="color:purple">**Evaluation on Test Set:**</span> Apply the trained model to the test set and draw conclusions based on its performance.
 
+<<<<<<< HEAD
 The overall goal of the lab is to develop a comprehensive understanding of performance metrics for classification problems and apply them to assess and improve the performance of a classification model on the MNIST dataset.
+=======
+The overall goal of the lab is to develop a comprehensive understanding of performance metrics for classification problems and apply them to assess and improve the performance of a classification model on the MNIST dataset.
+>>>>>>> a3b3c0266e6f09994fb4ab878b49f59422214fa7
